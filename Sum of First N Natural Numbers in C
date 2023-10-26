@@ -1,0 +1,25 @@
+- - - - - - - - - - - - - - - - - - - 
+   Sum of First N Natural Numbers
+- - - - - - - - - - - - - - - - - - - 
+
+#include <stdio.h>
+int main()
+{
+    int n; 
+    scanf("%d",&n);     
+    int sum = 0;
+    for(int i=1;i<=n;i++) 
+        sum = sum + i;
+        printf("Sum is %d",sum);
+    return 0;
+}
+
+- - - - - - - - - - - - - - - - - - - 
+Output :
+
+29
+Sum is 435
+
+21
+Sum is 231
+- - - - - - - - - - - - - - - - - - - 

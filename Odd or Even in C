@@ -1,0 +1,25 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+                  Odd or Even in C
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+#include <stdio.h>
+int main() {
+    int num;
+    scanf("%d",&num);
+    if(num%2==0){
+        printf("The number is Even ");
+    }
+    else
+        printf("The number is Odd ");
+    return 0;
+}
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Output :
+
+67
+The number is Odd
+
+66
+The number is Even

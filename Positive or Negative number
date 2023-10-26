@@ -1,4 +1,6 @@
-Positive or Negative number:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+          Positive or Negative number
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 #include <stdio.h>
 int main() {
@@ -15,6 +17,8 @@ int main() {
     return 0;
 }
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
 Output :
 
 5
@@ -25,3 +29,5 @@ The number is negative
 
 0
 Zero
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - 
